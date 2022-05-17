@@ -10,9 +10,9 @@
 title Massive Executor
 
 set MASSIVE_CORE_VERSION=ALPHA
-set MASSIVE_CMD_HACKING_KEY=672b813753af9027bde01a41c5c4ab4b :: This key is a key made in C++ to exploit the System.
+set MASSIVE_CMD_HACKING_KEY=672b813753af9027bde01a41c5c4ab4b
 set MASSIVE=WindowsCMD
-set SYSTEM_BOOT_KEY_MS=e75dfb059e5b9f96075e221338d35e5d7cfac4ff :: This key has made in C++/Jython to unblock the cmd
+set SYSTEM_KEY_MS=e75dfb059e5b9f96075e221338d35e5d7cfac4f
 
 rem This work for Windows 10. Not Windows 11
 

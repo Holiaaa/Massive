@@ -4,7 +4,7 @@
 :: WARNING !
 :: Use this as your risk!
 :: Don't lauch this program in other computer! 
-:: github.com/
+:: github.com/Holiaaa/Massive
 
 @echo off
 title Massive Executor
